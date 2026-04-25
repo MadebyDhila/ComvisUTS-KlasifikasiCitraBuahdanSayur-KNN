@@ -1,1 +1,1 @@
-# ComvisUTS-KlasifikasiCitraBuahdanSayur-KNN-
+# ComvisUTS-KlasifikasiCitraBuahdanSayur-KNN
